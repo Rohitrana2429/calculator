@@ -1,5 +1,5 @@
 
-# Calculator 
+# Calculator shalini
 By using the html , css and javascript in it .
 
 To copy this project
